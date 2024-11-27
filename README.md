@@ -1,19 +1,20 @@
 👋 Hi, I’m [@KiranRaj845](https://github.com/KiranRaj845)  
-👀 I’m interested in learning AI models, Python, full stack web, and app development.  
+👀 I’m interested in learning Python, full stack web, app development and AI models.  
 🌱 I’m currently learning:
 
-- Machine Learning (Scikit-learn, Linear Regression, Logistic Regression, Decision Trees, Random Forests)
-- Deep Learning (Neural Networks, CNNs, RNNs)
 - Full stack web development
 - App development
-
+- Machine Learning (Scikit-learn, Linear Regression, Logistic Regression, Decision Trees, Random Forests)
+- Deep Learning (Neural Networks, CNNs, RNNs)
+  
 💞️ I’m looking to collaborate on:  
+- Full stack web development  
+- App development
 - Machine Learning (data analysis, model comparison)  
 - Deep Learning (image classification, text generation)  
 - NLP (chatbot development, sentiment analysis)  
 - Python projects  
-- Full stack web development  
-- App development
+
 
 📫 How to reach me: kiranrajbadakambi@gmail.com  
 😄 Pronouns: he/him  
