@@ -19,4 +19,5 @@
 📫 How to reach me: kiranrajbadakambi@gmail.com  
 😄 Pronouns: he/him  
 ⚡ Fun fact: I love learning new things every day!
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KiranRaj-B.KiranRaj-B)
